@@ -1,0 +1,17 @@
+
+
+body{
+    background-color: hsl(195, 80%, 47%)
+}
+
+h1{
+    font-family:"Courier New", monospace;
+    color: rgb(46, 99, 99);
+    border: 5px solid;
+    padding: 10px 30px 10px 20px
+    }
+p{
+    font-style: italic;
+    font-size: 30px;
+    color: black;
+    }
